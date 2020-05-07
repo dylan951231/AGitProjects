@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Commit a rubbish, but code should be save");
 
         System.out.println("git commit 1");
-
+        System.out.println("git commit 2");
     }
 }
