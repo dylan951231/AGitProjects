@@ -9,5 +9,7 @@ public class Main {
         System.out.println("git commit 3");
         System.out.println("git commit 4");
         System.out.println("git commit 5");
+
+        System.out.println(" push a bug to origin");
     }
 }
