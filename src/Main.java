@@ -7,7 +7,7 @@ public class Main {
         System.out.println("git commit 1");
         System.out.println("git commit 2");
         System.out.println("git commit 3");
-        System.out.println("git commit 3");
+        System.out.println("git commit 4");
         System.out.println("git commit 5");
     }
 }
