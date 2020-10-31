@@ -6,6 +6,5 @@ public class Main {
 
         System.out.println("It's an errot Code!");
 
-        System.out.println("There is an error Code!");
     }
 }
